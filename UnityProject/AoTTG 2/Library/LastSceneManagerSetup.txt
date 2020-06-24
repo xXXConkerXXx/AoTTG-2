@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Main Assets/Scenes/AoTTG 2.unity
+  isLoaded: 1
+  isActive: 1
